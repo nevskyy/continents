@@ -6,8 +6,18 @@ import { Countries } from '../Countries';
 import { CallBackContext } from '../../context/CallBackContext';
 
 
+// const continentsImg = {
+//   'AF': '../../../continentsImgs/Africa.png',
+//   'AN': '../../../continentsImgs/Antarctica.png',
+//   'AS': '../../../continentsImgs/Asia.png',
+//   'EU': '../../../continentsImgs/Europe.png',
+//   'NA': '../../../continentsImgs/NorthAmerica.png',
+//   'OC': '../../../continentsImgs/Oceania.png',
+//   'SA': '../../../continentsImgs/SouthAmerica.png',
+// }
+
 const continentsImg = {
-  'AF': '../../../continentsImgs/Africa.png',
+  'AF': '../../../continentsImgs/Africa.PNG',
   'AN': '../../../continentsImgs/Antarctica.png',
   'AS': '../../../continentsImgs/Asia.png',
   'EU': '../../../continentsImgs/Europe.png',
