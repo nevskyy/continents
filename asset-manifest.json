@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/continents/static/css/main.ae0a173a.chunk.css",
+    "main.js": "/continents/static/js/main.6a3d94ba.chunk.js",
+    "main.js.map": "/continents/static/js/main.6a3d94ba.chunk.js.map",
+    "runtime-main.js": "/continents/static/js/runtime-main.2940c6ca.js",
+    "runtime-main.js.map": "/continents/static/js/runtime-main.2940c6ca.js.map",
+    "static/js/2.1282bba5.chunk.js": "/continents/static/js/2.1282bba5.chunk.js",
+    "static/js/2.1282bba5.chunk.js.map": "/continents/static/js/2.1282bba5.chunk.js.map",
+    "index.html": "/continents/index.html",
+    "static/css/main.ae0a173a.chunk.css.map": "/continents/static/css/main.ae0a173a.chunk.css.map",
+    "static/js/2.1282bba5.chunk.js.LICENSE.txt": "/continents/static/js/2.1282bba5.chunk.js.LICENSE.txt",
+    "static/media/Africa.a0666c91.png": "/continents/static/media/Africa.a0666c91.png",
+    "static/media/Antarctica.aa24b969.png": "/continents/static/media/Antarctica.aa24b969.png",
+    "static/media/Asia.ad9edd43.png": "/continents/static/media/Asia.ad9edd43.png",
+    "static/media/Europe.2bac3ad1.png": "/continents/static/media/Europe.2bac3ad1.png",
+    "static/media/NorthAmerica.770912f7.png": "/continents/static/media/NorthAmerica.770912f7.png",
+    "static/media/Oceania.8d66b02b.png": "/continents/static/media/Oceania.8d66b02b.png",
+    "static/media/SouthAmerica.7e41e296.png": "/continents/static/media/SouthAmerica.7e41e296.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2940c6ca.js",
+    "static/js/2.1282bba5.chunk.js",
+    "static/css/main.ae0a173a.chunk.css",
+    "static/js/main.6a3d94ba.chunk.js"
+  ]
+}
